@@ -18,10 +18,10 @@ Users should be able to:
 
 ### Screenshot
 
-[Blog  Preview](/frontend_mentor_1/screenshot.png)
+[Blog  Preview](screenshot.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://firstfrontendmentortask.netlify.app/)
 
 ## My process
 

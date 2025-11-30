@@ -75,3 +75,9 @@ span.span_2 {
     margin-top: 7.5px;
     
 }
+
+@media (min-width: 600px) {
+    .container {
+        max-width: 300px;
+    }
+}
